@@ -1,0 +1,5 @@
+﻿.venv/
+__pycache__/
+*.pkl
+Plant_1_Generation_Data.csv
+Plant_1_Weather_Sensor_Data.csv
