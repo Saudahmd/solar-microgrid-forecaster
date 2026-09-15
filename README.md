@@ -178,8 +178,8 @@ kagglehub
 **Saud Ahmad**  
 Machine Learning Enthusiast | Data Science
 
-- GitHub: [src_xenon](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [src_xenon](https://github.com/Saudahmd)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/saudahmd10/)
 
 ---
 
